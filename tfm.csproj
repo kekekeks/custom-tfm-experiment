@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>custom0.1</TargetFramework>
+    <TargetFrameworkIdentifier>Custom</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>0.1</TargetFrameworkVersion>
+    <TargetFrameworkRootPath>$(MSBuildThisFileDirectory)\libs</TargetFrameworkRootPath>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
